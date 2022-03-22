@@ -3692,3 +3692,46 @@ table {
 	margin: 100px auto 0;
     
 } 
+
+.table-container{
+    padding: 0 10%;
+    margin: 40px auto 0;
+}
+.head1{
+  font-size: 1rem;  
+  color: white;
+margin-left: 50%;
+  margin-bottom: 40px;
+}
+.table thead{
+   
+    background-color: #282f36;
+}
+.table thead tr th
+{
+    letter-spacing: 0.35px;
+    opacity: 1;
+    padding: 12px;
+    vertical-align: top;
+    
+    text-align: center;
+}
+.table tbody tr td{
+    font-size: 20px;
+    letter-spacing: 0.35px;
+    text-align: center;
+    font-weight: normal;
+    color: wheat;
+    background-color: #4D77FF;
+    padding: 8px;
+
+}
+td .head1{
+    background-color: #282f36;
+}
+.head2{
+    background-color: #282f36;
+}
+.table .start{
+    background-color:#5D8BF4;
+}
